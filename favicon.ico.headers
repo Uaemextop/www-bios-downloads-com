@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bios-downloads.com/favicon.ico",
+  "status_code": 200,
+  "headers": {
+    "Date": "Fri, 27 Feb 2026 23:22:26 GMT",
+    "Content-Type": "image/vnd.microsoft.icon",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "X-Powered-By": "PHP/7.0.27",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ICCBS4r7KBp39aG3Ov4ES19ntO54QNB1Np%2FwKE9EfitbRBI5clVOhqDn0P%2FYLkIjQn%2FSXEgsoHun%2FBgEEbX5yjm9V986lyssyYggxIq9HqZFRXyCexw%3D\"}]}",
+    "Server-Timing": "cfCacheStatus;desc=\"MISS\", cfEdge;dur=11,cfOrigin;dur=466",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "MISS",
+    "last-modified": "Fri, 27 Feb 2026 23:22:26 GMT",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "9d4b6c983f6ee544-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

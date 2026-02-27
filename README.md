@@ -3,4 +3,4 @@
 - **Depth**: 10
 - **Delay**: 0.25s
 - **Run**: #11
-- **Status**: 🔄 Crawling in progress…
+- **Status**: ✅ Crawl complete

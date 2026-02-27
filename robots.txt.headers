@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bios-downloads.com/robots.txt",
+  "status_code": 200,
+  "headers": {
+    "Date": "Fri, 27 Feb 2026 23:22:24 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Last-Modified": "Sat, 15 Sep 2018 18:58:51 GMT",
+    "Server-Timing": "cfCacheStatus;desc=\"REVALIDATED\", cfEdge;dur=10,cfOrigin;dur=491",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mVmU9fRtVYCoPOTeVfO06erUKhju3wNRBaoz%2FYTSy%2F4uOC4dfwPOfpoGnMw9PI97Ph9yLUYYnPNXqybPKf8%2BVCtspIndrVj%2BXri6Rg7BsCkVjhc2f20%3D\"}]}",
+    "Cache-Control": "max-age=14400",
+    "cf-cache-status": "REVALIDATED",
+    "etag": "W/\"1f2-575ed87e230c0\"",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "9d4b6c8bdfe390b3-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

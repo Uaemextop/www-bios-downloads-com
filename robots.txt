@@ -1,0 +1,26 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /wp-includes/js
+Allow: /*
+#Disallow: /trackback
+#Disallow: /category/*/*
+#Disallow: */trackback
+#Disallow: /*?*
+#Disallow: /*?
+#Disallow: /*~*
+#Disallow: /*~
+
+#User-agent: Yandex
+#Allow: /*
+
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /sitemap_index.xml
+
+#User-agent: *
+#Disallow: /?blackhole
